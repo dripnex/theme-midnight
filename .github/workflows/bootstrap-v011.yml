@@ -49,4 +49,3 @@ jobs:
           name: ${{ env.THEME_NAME }} ${{ env.THEME_VER }}
           body: Theme pack with theme.json so Settings → Themes can parse the palette without PluginHost.
           files: ${{ env.ASSET }}
-}
