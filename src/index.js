@@ -35,7 +35,7 @@ const TOKENS = {
 module.exports = {
   id: 'theme-midnight',
   name: 'Midnight',
-  version: '0.1.0',
+  version: '0.1.1',
   description: 'OLED navy, electric blue. Frosted.',
 
   activate(context) {
